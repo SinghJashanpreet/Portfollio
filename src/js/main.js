@@ -39,14 +39,15 @@ menu_item.forEach((item) => {
 
 
 var typed = new Typed(".typing", {
-    strings: ["GDSCian", "Developer", "Singh", "Designer", "Freelancer"],
+    strings: ["Salesforce Developer", "LWC/Apex Specialist", "Full Stack Developer", "Problem Solver", "Tech Explorer"],
     typeSpeed: 120,
     backSpeed: 60,
     loop: true
 });
 var typed = new Typed(".typing-2", {
-    strings: ["GDSCian", "Developer", "Singh", "Designer", "Freelancer"],
+    strings: ["Salesforce Developer", "LWC/Apex Specialist", "Full Stack Developer", "Problem Solver", "Tech Explorer"],
     typeSpeed: 120,
     backSpeed: 60,
     loop: true
 });
+
