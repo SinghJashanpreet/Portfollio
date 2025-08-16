@@ -482,7 +482,7 @@ padding: 0;
 
 
 .skills .tittle::after{
-  content: "what i know";
+  content: "What I Know";
   font-family : 'Ubuntu', sans-serif;
   font-weight: 600;
 }
@@ -584,7 +584,7 @@ background: crimson;
 /* Work Exp section*/
 
 .work-experience .tittle::after{
-  content: "Interrnships";
+  content: "Internships";
 }
 
 .work-experience .experience-content .img img{
@@ -658,7 +658,7 @@ color:white;
 /*Projects section*/
 
 .projects .tittle::after{
-  content: "wht i'hv done";
+  content: "My Work";
   background: black;
 }
 
@@ -726,7 +726,7 @@ color: white;
 /*About section*/
 
 .about .tittle::after{
-  content: "Developer";
+  content: "Who I Am";
   background-color: black;
 }
 
@@ -819,7 +819,7 @@ z-index: 1;
 /*Contact  section*/
 
 .contact .tittle::after{
-  content: "get in touch";
+  content: "Let’s Connect";
 }
 
 .contact .boxes .card{
